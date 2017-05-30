@@ -6,7 +6,7 @@ export class Example extends React.Component {
     render(){
         return(
             <div>
-                Example Component
+                Example Component!
                 </div>
         );
     }
